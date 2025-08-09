@@ -39,9 +39,9 @@ const Contact = () => {
                 <h3>Send us a message <img src={msg_icon} alt="" /></h3>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto doloremque numquam culpa ex! Consequatur animi beatae eveniet minima quos suscipit, nulla itaque delectus error labore. Pariatur error reprehenderit unde animi!</p>
                 <ul>
-                    <li><img src={mail_icon} alt="" />Contact@aman.dev</li>
+                    <li><img src={mail_icon} alt="" />yadavaman233221@gmail.com</li>
                     <li><img src={phone_icon} alt="" />+1 123-456-7890</li>
-                    <li><img src={location_icon} alt="" />77 Massachusetts Ave, Cambridge <br />MA 02139, United States</li>
+                    <li><img src={location_icon} alt="" />Lucknow, Uttar Pradesh<br />India</li>
                 </ul>
             </div>
             <div className="contact-col">
